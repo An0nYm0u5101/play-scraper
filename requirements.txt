@@ -7,7 +7,7 @@ chardet==3.0.4
 cryptography==2.7
 enum34==1.1.6
 futures==3.3.0;python_version<"2.7"
-idna==2.8
+idna==3.7
 ipaddress==1.0.22
 lxml==4.4.1
 pycparser==2.19
